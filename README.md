@@ -1,1 +1,4 @@
 # Kodland
+
+
+print("Hello world");
